@@ -19,7 +19,7 @@ function array_merge_diff($arr1, $arr2)
 			$merge_values[$key] = implode(' ', $value);
 		}
 	}
-	var_dump($merge_values);
+	return $merge_values;
 }
 
 
