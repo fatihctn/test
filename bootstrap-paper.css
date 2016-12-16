@@ -7307,6 +7307,10 @@ select.form-control:focus {
 select[multiple],
 select.form-control[multiple] {
   background: none;
+  padding: 0;
+}
+select[multiple] option, select.form-control[multiple] option {
+    padding: 5px 10px;
 }
 .radio label,
 .radio-inline label,
