@@ -5745,7 +5745,7 @@ button.list-group-item-danger.active:focus {
   border-bottom-color: #d6e9c6;
 }
 .panel-info {
-  border-color: #cba4dd;
+  border-color: #9c27b0;
 }
 .panel-info > .panel-heading {
   color: #ffffff;
@@ -5763,7 +5763,7 @@ button.list-group-item-danger.active:focus {
   border-bottom-color: #cba4dd;
 }
 .panel-warning {
-  border-color: #ffc599;
+  border-color: #ff9800;
 }
 .panel-warning > .panel-heading {
   color: #ffffff;
@@ -5781,7 +5781,7 @@ button.list-group-item-danger.active:focus {
   border-bottom-color: #ffc599;
 }
 .panel-danger {
-  border-color: #f7a4af;
+  border-color: #e51c23;
 }
 .panel-danger > .panel-heading {
   color: #ffffff;
