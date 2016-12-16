@@ -3910,7 +3910,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   line-height: 1;
   color: #666666;
   text-align: center;
-  background-color: #e5e5e5;
+  background-color: #efefef;
   border: 1px solid #dddddd;
   border-radius: 3px;
 }
@@ -4852,8 +4852,8 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
 }
 .label {
   display: inline;
-  padding: .2em .6em .3em;
-  font-size: 75%;
+  padding: 0.4em .8em .5em;
+  font-size: 80%;
   font-weight: bold;
   line-height: 1;
   color: #ffffff;
